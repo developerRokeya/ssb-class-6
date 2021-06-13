@@ -1,0 +1,151 @@
+.header {
+  min-height: 80px;
+  background-color: crimson;
+}
+
+.wrapper {
+  overflow: hidden;
+  border: 10px solid greenyellow;
+  color: cornsilk;
+}
+.contact {
+  float: left;
+  width: 70%;
+  min-height: 300px;
+
+  background-image: url("images/a1.jpg");
+  text-align: center;
+}
+.blog {
+  float: right;
+  width: 30%;
+  min-height: 300px;
+  background-color: green;
+  text-align: center;
+}
+
+.footer {
+  min-height: 100px;
+  background-color: cyan;
+}
+.header1 {
+  min-height: 80px;
+  background-color: rgb(37, 129, 8);
+}
+.box {
+  overflow: hidden;
+}
+.single {
+  float: left;
+  width: 33.33%;
+  min-height: 100px;
+}
+
+.olive {
+  background-color: olive;
+}
+.tomato {
+  background-color: tomato;
+}
+.yellow {
+  background-color: yellow;
+}
+.footer1 {
+  min-height: 100px;
+  background-color: rgb(42, 58, 153);
+}
+.header2 {
+  min-height: 80px;
+  background-color: rgb(129, 16, 8);
+}
+.box1 {
+  overflow: hidden;
+}
+.single1 {
+  float: left;
+  width: 25%;
+  min-height: 100px;
+  text-align: center;
+}
+.home {
+  background-color: tomato;
+}
+.about {
+  background-color: olive;
+}
+.service {
+  background-color: blueviolet;
+}
+.portfolio {
+  background-color: yellow;
+}
+.footer2 {
+  min-height: 100px;
+  background-color: rgb(128, 38, 105);
+}
+
+.header3 {
+  min-height: 80px;
+  background-color: rgb(86, 87, 86);
+}
+.box2 {
+  overflow: hidden;
+}
+.single2 {
+  float: left;
+  width: 20%;
+  min-height: 100px;
+}
+.home {
+  background-color: tomato;
+}
+.about {
+  background-color: olive;
+}
+.service {
+  background-color: blueviolet;
+}
+.portfolio {
+  background-color: yellow;
+}
+.contact {
+  background-color: rgb(66, 66, 12);
+}
+.footer3 {
+  min-height: 100px;
+  background-color: rgb(20, 112, 66);
+}
+.header4 {
+  min-height: 80px;
+  background-color: rgb(8, 111, 129);
+}
+.box3 {
+  overflow: hidden;
+}
+.single3 {
+  float: left;
+  width: 16.66%;
+  min-height: 100px;
+}
+.home {
+  background-color: tomato;
+}
+.about {
+  background-color: olive;
+}
+.skill {
+  background-color: chocolate;
+}
+.service {
+  background-color: blueviolet;
+}
+.portfolio {
+  background-color: yellow;
+}
+.contact {
+  background-color: rgb(66, 66, 12);
+}
+.footer4 {
+  min-height: 100px;
+  background-color: rgb(37, 41, 63);
+}
